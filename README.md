@@ -26,6 +26,12 @@ I’m a software developer focused on backend engineering and practical AI appli
 - [AI Cold Email Generator](https://github.com/MAHIM2060/AI-Cold-Email-Generator) — Generates personalized cold emails from job postings using LLMs.
 - [Fake Account Detection](https://github.com/MAHIM2060/FakeAccountDetection) — Machine learning project for detecting fake accounts.
 
+## Education
+
+B.Tech in Computer and Communication Engineering  
+Manipal University Jaipur · 2026  
+GPA: 8.51
+
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/mahim-kumawat/)
